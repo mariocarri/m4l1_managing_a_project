@@ -2,7 +2,7 @@ Crimson
 Orange
 Green
 Cyan
-Yellow
+Black
 Ivory
 Khaki
 Coral
